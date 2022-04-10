@@ -4,3 +4,5 @@ This is a repository of python packages that I found to be repeated across many 
 
 Planned Tools:
 - A Weights and Biases Client
+- Pytorch epoch training for supervised learning
+- Plotting of ROC, AUC, confusion matrix
